@@ -7,7 +7,7 @@ nginx-ingress:
       enable: true
     enableSnippets: true
     image:
-      repository: ghcr.io/cavalen/nginx-plus-ingress_cv
+      repository: ghcr.io/cavalen/nginx-plus-ingress
       tag: 3.0.2
     nginxplus: true
     nginxStatus:
